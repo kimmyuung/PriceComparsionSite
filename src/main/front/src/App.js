@@ -15,6 +15,9 @@ function App() {
 
   return (
     <div className="App">
+        <header>
+            가격 비교 사이트
+        </header>
      백엔드 데이터 : {hello}
     </div>
   );
